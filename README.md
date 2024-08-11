@@ -6,7 +6,7 @@ This project involves the development of an intelligent chat bot designed to int
 
 The chat bot is designed to simulate human-like conversations and can be tailored to various use cases such as customer support, virtual assistants, or general Q&A systems. The project utilizes a combination of machine learning and rule-based approaches to process and generate meaningful responses.
 
-## Key Features
+### Key Features
 
 - **Natural Language Understanding (NLU)**:
   - Processes user inputs to understand intent and extract key information.
@@ -31,6 +31,10 @@ The chat bot is designed to simulate human-like conversations and can be tailore
 - **TensorFlow/Keras**: For building and training machine learning models (if applicable).
 - **Flask/Django**: For building a web interface to interact with the chat bot (optional).
 - **APIs**: Integration with various APIs for enhanced functionality.
+
+## Live Application
+
+Explore the interactive chat bot directly through the following Streamlit application: [Chat Bot AI](https://chat-bot-ai.streamlit.app/).
 
 ## Getting Started
 
@@ -67,6 +71,7 @@ Ensure you have Python installed, along with the required libraries listed in th
 1. **Interaction**:
    - Start a conversation with the chat bot through the console or web interface.
    - Ask questions or give commands, and the bot will respond accordingly.
+
 2. **Customization**:
    - Modify the intents and responses by editing the respective files to fit your specific use case.
    - Integrate additional APIs or machine learning models to enhance the bot’s capabilities.
@@ -81,4 +86,4 @@ This project is licensed under the MIT License. Please refer to the [LICENSE](LI
 
 ## Acknowledgments
 
-This project is inspired by the advancements in natural language processing and the open-source community. Special thanks to contributors of the libraries and tools utilized in this project.
+This project is inspired by advancements in natural language processing and the open-source community. Special thanks to contributors of the libraries and tools utilized in this project.
